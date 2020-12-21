@@ -1,7 +1,7 @@
 # 100DaysOfCode
 100 Days of Coding
 
-##Day 1
+## Day 1
 ### Band Name generator
 Its a basic python code to generate Band name from few questioniers.
 
